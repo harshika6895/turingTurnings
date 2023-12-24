@@ -7,7 +7,9 @@ Embark on this journey with me as I delve into the intricate landscapes of algor
 Highlights:
 
 📚 Learning Logs: Discover my insights, challenges, and "aha" moments documented along the way.
+
 🤓 Projects: Witness the practical application of machine learning through hands-on projects, each contributing to my growing expertise.
+
 🚀 Codebase: Explore the evolving codebase reflecting progress, experimentation, and continuous improvement.
 
 Why "turingTurnings"?
